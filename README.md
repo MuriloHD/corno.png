@@ -1,1 +1,0 @@
-# escultor3d
